@@ -1,0 +1,38 @@
+_repo: Old-Spookses-Pass-Malcolm-s-Katie-and-other-poems_6815
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crawford, Isabella Valancy
+    birthdate: 1850
+    deathdate: 1887
+    gutenberg_agent_id: '2205'
+    url: http://www.gutenberg.org/2009/agents/2205
+    wikipedia: http://en.wikipedia.org/wiki/Isabella_Valancy_Crawford
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6815'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canadian poetry'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'Old Spookses''s Pass -- The helot -- Malcom''s Katie: a love story
+  -- Old Spense -- The Roman rose-seller -- The wooing of Gheezis -- Baby''s dreams
+  -- Mary''s tryst -- "In exchange for his soul!" -- The land of kisses -- Said the
+  thistle-down -- Bouche-mignonne -- Beside the sea -- The hidden room -- Farmer Downs
+  changes his opinion of nature -- The burgomeister''s well -- Said the wind -- The
+  ghosts of the trees -- Gisli: the chieftain -- The song of the arrow -- The shell
+  -- Two songs of Spain -- The city tree -- Late loved: well loved -- La bouquetierre
+  -- Curtius -- The farmer''s daughter Cherry -- Some of farmer Stebbin''s opinions
+  -- The deacon and his daughter -- Said the skylark -- War -- The sword: The forging
+  of the sword -- Roses in Madrid -- Between the wind and rain -- Joy''s city -- The
+  canoe -- "My ain bonnie lass o'' the glen" -- The white bull -- March -- "The Earth
+  waxeth old" -- "The wishing star" -- How Deacon Fry bought a "duchess" -- My Irish
+  love -- A hungry day.'
+title: Old Spookses' Pass, Malcolm's Katie, and other poems
+url: http://www.gutenberg.org/ebooks/6815
