@@ -1,5 +1,8 @@
 _repo: Old-Spookses-Pass-Malcolm-s-Katie-and-other-poems_6815
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Crawford, Isabella Valancy
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2205
     wikipedia: http://en.wikipedia.org/wiki/Isabella_Valancy_Crawford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6815#Old-Spookses-Pass-Malcolm-s-Katie-and-other-poems
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
 identifiers:
